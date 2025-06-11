@@ -28,7 +28,7 @@ public class ArrayIntList {
      * Constructs an ArrayIntList with an internal array size of 10.
      */
     public ArrayIntList() {
-        new ArrayIntList(10);
+        this(10);
     }
 
 
